@@ -34,6 +34,28 @@ public class Tienda {
         this.direccion = direccion;
     }
 
+    public void almacenar (Producto p) {
 
+    }
+
+    public int cantidadStock() {
+
+    }
+
+    public Map<String,Integer> contarProductosPorTipo() {
+
+    }
+
+    public String nombreProductoMasCaro() {
+
+    }
+
+    public float precioProducto(String nombre) {
+
+    }
+
+    public Map<Long,List<Producto>> agruparPorDiasCaducadosDescendente() {
+
+    }
 
 }
